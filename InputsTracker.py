@@ -4,7 +4,6 @@ import json
 import threading
 import os
 
-
 class InputTracker:
     def __init__(self):
         self.events = []
